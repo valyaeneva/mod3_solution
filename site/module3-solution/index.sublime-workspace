@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"height"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fff",
+				"fffeb3"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-shadow"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"pading",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"shape-margin"
+			],
+			[
+				"m",
+				"max-width"
+			],
+			[
+				"backgroun-c",
+				"background-color"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"b",
+				"black"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8755,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 329.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Coursera/module3-solution/css/styles.css",
+		"/D/Coursera/mod3_solution/site/index.html",
+		"/D/Coursera/module3-solution/js/script.js",
+		"/D/Coursera/module3-solution/css/bootstrap.css",
+		"/D/Coursera/module3-solution/css/bootstrap.min.css",
+		"/D/HTML, CSS and JavaScript/Johns Hopkins University/Week3-Coding the Static Restaurant Site/Assignment-module 3/module3-solution/index.html",
+		"/D/HTML, CSS and JavaScript/Johns Hopkins University/Week3-Coding the Static Restaurant Site/Assignment-module 3/module3-solution/css/bootstrap.css",
+		"/D/HTML, CSS and JavaScript/Johns Hopkins University/Week3-Coding the Static Restaurant Site/Assignment-module 3/module3-solution/css/styles.css",
+		"/D/HTML, CSS and JavaScript/Johns Hopkins University/Week2-Introduction to CSS3/Assignment-Module 2/module2-solution-after reviw/css/styles.css",
+		"/D/Coursera/Yaakov Chaikin/examples/Lecture36/after/index.html",
+		"/D/Coursera/Yaakov Chaikin/examples/Lecture36/after/css/styles.css",
+		"/D/Coursera/Yaakov Chaikin/examples/Lecture35/after/css/styles.css",
+		"/D/Coursera/Yaakov Chaikin/examples/Lecture34/after/css/styles.css",
+		"/D/Coursera/Yaakov Chaikin/examples/Lecture33/after/index.html",
+		"/D/Coursera/Yaakov Chaikin/examples/Lecture32/after/css/styles.css",
+		"/D/Coursera/New folder/examples/Lecture29/before/css/styles.css",
+		"/D/Coursera/New folder/examples/Lecture29/before/index.html",
+		"/D/Coursera/New folder/examples/Lecture29/after/index.html",
+		"/D/HTML, CSS and JavaScript/Johns Hopkins University/Week2-Introduction to CSS3/Assignment-Module 2/module2-solution/index.html",
+		"/D/Coursera/module2_solution/mod2_solution/site/index.html",
+		"/D/HTML, CSS and JavaScript/Johns Hopkins University/Week2-Introduction to CSS3/Assignment-Module 2/module2-solution/css/styles.css",
+		"/D/Coursera/module2_solution/mod2_solution/site/css/styles.css",
+		"/D/HTML, CSS and JavaScript/Johns Hopkins University/Week2-Introduction to CSS3/Assignment-Module 2/module2-solution/css/style.ccs.css",
+		"/D/HTML, CSS and JavaScript/Johns Hopkins University/Week1-Introduction to HTML5/3-L1-HTML structure after.html",
+		"/D/Coursera/coursera-test/site/index2.html",
+		"/D/Coursera/coursera-test/site/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container-fluid",
+			"home-tiles",
+			"container-fluid",
+			"collapsable",
+			"collapsable-nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								596,
+								596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
