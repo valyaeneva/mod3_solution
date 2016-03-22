@@ -74,9 +74,8 @@ color: #f55b1d;
 	padding-top: 20px;
 
 }
-.page-header h1{
-    text-align: center;
-    color: #f55b1d;
+h1{
+        color: #f55b1d;
 	font-size: 2em;
 	text-transform: unset;
 	font-weight: bold;
